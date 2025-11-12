@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: ivolve-container
-          image: alia153/final-project-ivolve:v0
+          image: alia153/final-project-ivolve:v1
           ports:
             - containerPort: 5000
           env:
