@@ -8,5 +8,5 @@ spec:
     spec:
       containers:
       - name: ivolve-container
-        image: 747034604314.dkr.ecr.eu-central-1.amazonaws.com/finalproject-ivolve-repo:v7
+        image: 747034604314.dkr.ecr.eu-central-1.amazonaws.com/finalproject-ivolve-repo:v8
 
