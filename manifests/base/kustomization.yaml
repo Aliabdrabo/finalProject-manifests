@@ -1,0 +1,5 @@
+resources: 
+  - deployment.yaml
+  - lb.yaml
+  - ns.yaml
+  - application.yaml
